@@ -79,5 +79,11 @@ To run tests, run the following command
 
 **Python, Django, Django Rest Framework, Sqlite**
 
+##Screenshots
+![Screenshot 2024-05-08 165343](https://github.com/gaddesiddu/Vendor-Management-System/assets/98646175/17c4392a-29bc-4a0d-954c-7ddd293aff3f)
+
+![Screenshot 2024-05-08 165415](https://github.com/gaddesiddu/Vendor-Management-System/assets/98646175/eb6a52b2-c259-415f-bfed-e96d78f63f7d)
+
+![Screenshot 2024-05-08 165440](https://github.com/gaddesiddu/Vendor-Management-System/assets/98646175/d2244384-6a7f-4304-9e6b-b53d82ad5a5d)
 
 
